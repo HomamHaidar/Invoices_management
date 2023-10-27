@@ -12,7 +12,13 @@
 
 ![IMG_20231027_084257](https://github.com/HomamHaidar/Invoices_management/assets/147708704/ff4b83d4-9c20-4259-a57f-e5cb19e8059c)
 
+![IMG_20231027_084309](https://github.com/HomamHaidar/Invoices_management/assets/147708704/e427d6b8-61d3-47f1-94f6-20a7b90e5000)
 
+![IMG_20231027_084327](https://github.com/HomamHaidar/Invoices_management/assets/147708704/03fe660c-fa63-458f-93ed-698a1a8c8975)
+
+![IMG_20231027_084205](https://github.com/HomamHaidar/Invoices_management/assets/147708704/781550fa-33f6-4b58-9eb6-535da00a9d7f)
+
+![IMG_20231027_084220](https://github.com/HomamHaidar/Invoices_management/assets/147708704/847f647d-8abe-4638-8205-a2dc9e9bed87)
 
 ## Installation
 
