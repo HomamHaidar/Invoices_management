@@ -1,8 +1,8 @@
 # Invoices Management System 
-![photo_2023-10-27_08-48-28](https://github.com/HomamHaidar/Invoices_management/assets/147708704/8e5b7d27-4005-4c08-a023-e8754db6f6a2)
 
-![image](https://github.com/HomamHaidar/Invoices_management/assets/147708704/61a5a0bf-a557-488a-92bd-3e4c154ee6fb)
+![IMG_20231027_084118](https://github.com/HomamHaidar/Invoices_management/assets/147708704/d3072a29-d4d3-410f-a66b-553a21b1862b)
 
+![IMG_20231027_084340](https://github.com/HomamHaidar/Invoices_management/assets/147708704/6f75f805-60c0-404c-8cff-b43a35e8a32d)
 
 
 
