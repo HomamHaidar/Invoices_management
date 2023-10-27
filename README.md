@@ -43,7 +43,9 @@ Here is how you can run the project locally:
     ```
     php artisan db:seed
     ```
-  
+      this command will create  user (owner):
+     > email: homamhaidar18@gmail.com , password: 12345678
+
 1. Run server 
 
    
