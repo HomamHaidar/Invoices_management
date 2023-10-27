@@ -28,19 +28,19 @@
 Here is how you can run the project locally:
 1. Clone this repo
     ```sh
-    git clone git@github.com:HomamHaidar/school_management.git
+    git clone git@github.com:HomamHaidar/Invoices_management.git
     ```
 
 1. Go into the project root directory
     ```sh
-    cd  school_management
+    cd  Invoices_management
     ```
 
 1. Copy .env.example file to .env file
     ```sh
     cp .env.example .env
     ```
-1. Create database `school` (you can change database name)
+1. Create database `Invoices_management` (you can change database name)
 
 1. Install PHP dependencies 
     ```sh
